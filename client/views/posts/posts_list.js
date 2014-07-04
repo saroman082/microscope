@@ -5,7 +5,7 @@ var postsData = [
     url: 'http://sachagreif.com/introducing-telescope/'
   }, 
   {
-    title: 'Meteor',
+    title: 'Meteor2',
     author: 'Tom Coleman',
     url: 'http://meteor.com'
   }, 
